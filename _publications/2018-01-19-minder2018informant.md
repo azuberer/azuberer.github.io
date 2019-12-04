@@ -6,8 +6,10 @@ excerpt: 'This paper reports novel results on the efficacy of Neurofeedback and 
 date: 2018-01-19
 venue: 'European child & adolescent psychiatry'
 paperurl: 'http://azuberer.github.io/files/minder2018informant.pdf'
-citation: Minder, F., Zuberer, A., Brandeis, D., & Drechsler, R. (2018). Informant-related effects of neurofeedback and cognitive training in children with ADHD including a waiting control phase: a randomized-controlled trial. <i>European child & adolescent psychiatry</i>. 27(8), pp. 1055–1066. doi: 10.1007/s00787-018-1116-1.
+citation:  Minder, F., Zuberer, A., Brandeis, D., & Drechsler, R. (2018). Informant-related effects of neurofeedback and cognitive training in children with ADHD including a waiting control phase: a randomized-controlled trial. <i>European child & adolescent psychiatry</i>. 27(8), pp. 1055–1066. doi: 10.1007/s00787-018-1116-1.
 ---
 
 [Download paper here](http://azuberer.github.io/files/minder2018informant.pdf)
+
+
 
