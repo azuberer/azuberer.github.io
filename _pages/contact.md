@@ -5,5 +5,5 @@ permalink: /contact/
 author_profile: true
 ---
 
-Email: azuberer [at] bu.edu
+Email: azuberer [at] gmail.com
 
