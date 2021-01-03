@@ -7,7 +7,7 @@ author_profile: true
 
 Zuberer, A., Kucyi, A., Yamashita, A., Wu, C. M., Walter, M., Valera, E. M., & Esterman, M. (in press). Integration and segregation across large-scale intrinsic brain networks as a marker of sustained attention and task-unrelated thought. <i>NeuroImage.</i> [PDF](http://azuberer.github.io/files/zuberer2020integration.pdf). [Code](https://osf.io/6b83r/).
 
-Jamalabadi\*, H., Zuberer\*, A., Kumar, V.J., Li, M., Alizadeh, S., Moradi, A.A., Gaser, C., Esterman, M. & Walter, M. (2020). The missing role of gray matter in studying brain controllability. <i>bioRxiv.</i> [PDF](http://azuberer.github.io/files/jamalabadi2020missing). 
+Jamalabadi\*, H., Zuberer\*, A., Kumar, V.J., Li, M., Alizadeh, S., Moradi, A.A., Gaser, C., Esterman, M. & Walter, M. (2020). The missing role of gray matter in studying brain controllability. <i>bioRxiv.</i> [PDF](http://azuberer.github.io/files/jamalabadi2020missing.pdf). 
 
 Zuberer, A., Schwarz, L., Kreifelts, B., Wildgruber, D., Erb, M., Fallgatter, A., Scheffler, K. & Ethofer, T. (2020). Neural basis of impaired emotion recognition in adult attention deficit hyperactivity disorder. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging.</i> [https://doi.org/10.1016/j.bpsc.2020.11.013](https://doi.org/10.1016/j.bpsc.2020.11.013). [PDF](http://azuberer.github.io/files/zuberer2020neural.pdf).
 
@@ -16,7 +16,7 @@ Minder, F., Zuberer, A., Brandeis, D., & Drechsler, R. (2019). Specific Effects 
 
 Zuberer, A., Minder, F., Brandeis, D., & Drechsler, R. (2018). Mixed-Effects Modeling of Neurofeedback Self-Regulation Performance: Moderators for Learning in Children with ADHD. <i>Neural Plasticity</i>. [https://doi.org/10.1155/2018/2464310](https://doi.org/10.1155/2018/2464310). [PDF](http://azuberer.github.io/files/zuberer2018mixed.pdf).
 
-Minder, F., Zuberer, A., Brandeis, D., & Drechsler, R. (2018). A review of the clinical utility of systematic behavioral observations in Attention Deficit Hyperactivity Disorder (ADHD). <i>Child Psychiatry & Human Development</i>. 49(4). [https://doi.org/10.1007/s10578-017-0776-2](https://doi.org/10.1007/s10578-017-0776-2). [PDF](http://azuberer.github.io/files/minder2017review.pdf).
+Minder, F., Zuberer, A., Brandeis, D., & Drechsler, R. (2018). A review of the clinical utility of systematic behavioral observations in Attention Deficit Hyperactivity Disorder (ADHD). <i>Child Psychiatry & Human Development</i>. 49(4). [https://doi.org/10.1007/s10578-017-0776-2](https://doi.org/10.1007/s10578-017-0776-2). [PDF](http://azuberer.github.io/files/minder2018review.pdf).
 
 Minder, F., Zuberer, A., Brandeis, D., & Drechsler, R. (2018). Informant-related effects of neurofeedback and cognitive training in children with ADHD including a waiting control phase: a randomized-controlled trial. <i>European child & adolescent psychiatry</i>. 27(8), pp. 1055–1066. doi: 10.1007/s00787-018-1116-1. [https://doi.org/10.1007/s00787-018-1116-1](https://doi.org/10.1007/s00787-018-1116-1). [PDF](http://azuberer.github.io/files/minder2018informant.pdf).
 
