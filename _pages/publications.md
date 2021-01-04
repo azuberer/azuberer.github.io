@@ -9,7 +9,7 @@ Zuberer, A., Kucyi, A., Yamashita, A., Wu, C. M., Walter, M., Valera, E. M., & E
 
 Jamalabadi\*, H., Zuberer\*, A., Kumar, V.J., Li, M., Alizadeh, S., Moradi, A.A., Gaser, C., Esterman, M. & Walter, M. (in press). The missing role of gray matter in studying brain controllability. <i>Network Neuroscience.</i> [PDF](http://azuberer.github.io/files/jamalabadi2020missing.pdf). 
 
-Zuberer, A., Schwarz, L., Kreifelts, B., Wildgruber, D., Erb, M., Fallgatter, A., Scheffler, K. & Ethofer, T. (2020). Neural basis of impaired emotion recognition in adult attention deficit hyperactivity disorder. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging.</i> [https://doi.org/10.1016/j.bpsc.2020.11.013](https://doi.org/10.1016/j.bpsc.2020.11.013). [PDF](http://azuberer.github.io/files/zuberer2020neural.pdf).
+Zuberer, A., Schwarz, L., Kreifelts, B., Wildgruber, D., Erb, M., Fallgatter, A., Scheffler, K. & Ethofer, T. (in press). Neural basis of impaired emotion recognition in adult attention deficit hyperactivity disorder. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging.</i> [https://doi.org/10.1016/j.bpsc.2020.11.013](https://doi.org/10.1016/j.bpsc.2020.11.013). [PDF](http://azuberer.github.io/files/zuberer2020neural.pdf).
 
 Minder, F., Zuberer, A., Brandeis, D., & Drechsler, R. (2019). Specific Effects of Individualized Cognitive Training in Children with Attention-Deficit/Hyperactivity Disorder (ADHD): The Role of Pre-Training Cognitive Impairment and Individual Training Performance. <i>Developmental Neurorehabilitation.</i> [https://doi.org/10.1080/17518423.2019.1600064](https://doi.org/10.1080/17518423.2019.1600064). [PDF](http://azuberer.github.io/files/minder2019specific.pdf).
 
