@@ -21,7 +21,7 @@ Minder, F., Zuberer, A., Brandeis, D., & Drechsler, R. (2018). A review of the c
 Minder, F., Zuberer, A., Brandeis, D., & Drechsler, R. (2018). Informant-related effects of neurofeedback and cognitive training in children with ADHD including a waiting control phase: a randomized-controlled trial. <i>European child & adolescent psychiatry</i>. 27(8), pp. 1055–1066. doi: 10.1007/s00787-018-1116-1. [https://doi.org/10.1007/s00787-018-1116-1](https://doi.org/10.1007/s00787-018-1116-1). [PDF](http://azuberer.github.io/files/minder2018informant.pdf).
 
 
-Zuberer, A., Brandeis, D. & Drechsler, R. (2015). Are treatment effects of neurofeedback training in children with ADHD related to the successful regulation of brain activity? A review on the learning of regulation of brain activity and a contribution to the discussion on specificity. <i>Frontiers of Neuroscience</i>. 9, 135. [https://doi.org/10.3389/fnhum.2015.00135](https://doi.org/10.3389/fnhum.2015.00135). [PDF](http://azuberer.github.io/files/zuberer2015treatment.pdf).
+Zuberer, A., Brandeis, D. & Drechsler, R. (2015). Are treatment effects of neurofeedback training in children with ADHD related to the successful regulation of brain activity? A review on the learning of regulation of brain activity and a contribution to the discussion on specificity. <i>Frontiers in Human Neuroscience</i>. 9, 135. [https://doi.org/10.3389/fnhum.2015.00135](https://doi.org/10.3389/fnhum.2015.00135). [PDF](http://azuberer.github.io/files/zuberer2015treatment.pdf).
 
 
 
