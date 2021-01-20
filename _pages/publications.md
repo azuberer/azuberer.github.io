@@ -5,7 +5,7 @@ author_profile: true
 ---
 <br>
 
-Zuberer, A., Kucyi, A., Yamashita, A., Wu, C. M., Walter, M., Valera, E. M., & Esterman, M. (in press). Integration and segregation across large-scale intrinsic brain networks as a marker of sustained attention and task-unrelated thought. <i>NeuroImage.</i> [PDF](http://azuberer.github.io/files/zuberer2020integration.pdf). [Code](https://osf.io/6b83r/).
+Zuberer, A., Kucyi, A., Yamashita, A., Wu, C. M., Walter, M., Valera, E. M., & Esterman, M. (in press). Integration and segregation across large-scale intrinsic brain networks as a marker of sustained attention and task-unrelated thought. <i>NeuroImage.</i> [PDF](http://azuberer.github.io/files/zuberer2020integration.pdf). 
 
 Jamalabadi\*, H., Zuberer\*, A., Kumar, V.J., Li, M., Alizadeh, S., Moradi, A.A., Gaser, C., Esterman, M. & Walter, M. (in press). The missing role of gray matter in studying brain controllability. <i>Network Neuroscience.</i> [PDF](http://azuberer.github.io/files/jamalabadi2020missing.pdf). 
 
