@@ -9,7 +9,7 @@ author_profile: true
 Jagger-Rickels, A., Stumps, A., Rothlein, D., Park, H., Fortenbaugh, F., Zuberer, A., Fonda, J., Fortier, C., DeGutis, J., Milberg, W. & Esterman, M. (in press). Impaired executive function exacerbates neural markers of PTSD. Psychological Medicine.
 
 
-Zuberer, A., Kucyi, A., Yamashita, A., Wu, C. M., Walter, M., Valera, E. M., & Esterman, M. (2021). Integration and segregation across large-scale intrinsic brain networks as a marker of sustained attention and task-unrelated thought. <i>NeuroImage.</i> [https://doi.org/10.1016/j.neuroimage.2020.117610](https://doi.org/10.1016/j.neuroimage.2020.117610).[[PDF](http://azuberer.github.io/files/zuberer2020integration.pdf). 
+Zuberer, A., Kucyi, A., Yamashita, A., Wu, C. M., Walter, M., Valera, E. M., & Esterman, M. (2021). Integration and segregation across large-scale intrinsic brain networks as a marker of sustained attention and task-unrelated thought. <i>NeuroImage.</i> [https://doi.org/10.1016/j.neuroimage.2020.117610](https://doi.org/10.1016/j.neuroimage.2020.117610).[PDF](http://azuberer.github.io/files/zuberer2020integration.pdf). 
 
 Jamalabadi\*, H., Zuberer\*, A., Kumar, V.J., Li, M., Alizadeh, S., Moradi, A.A., Gaser, C., Esterman, M. & Walter, M. (2020). The missing role of gray matter in studying brain controllability. <i>Network Neuroscience.</i> [https://doi.org/10.1162/netn_a_00174](https://doi.org/10.1162/netn_a_00174).[PDF](http://azuberer.github.io/files/jamalabadi2020missing.pdf). 
 
