@@ -8,7 +8,7 @@ author_profile: true
 Hillmann, B., Zuberer, A., Schwarz, L., Erb, M., Scheffler, M., Nieratschker, V., \&  Ethofer, T. (2022). ADHD patients with DIRAS-2 risk allele need more thalamic activation during emotional face-voice recognition.<i>Psychiatry Research.<i> [https://doi.org/10.1016/j.psychres.2021.114355](https://doi.org/10.1016/j.psychres.2021.114355).[PDF](http://azuberer.github.io/files/Hillmann2022ADHD.pdf)
 
 
-Jagger-Rickels, A., Stumps, A., Rothlein, D., Park, H., Fortenbaugh, F., Zuberer, A., Fonda, J., Fortier, C., DeGutis, J., Milberg, W. & Esterman, M. (2021). Impaired executive function exacerbates neural markers of PTSD. Psychological Medicine.<i>Psychological Medicine.</i> [https://doi.org/10.1016/j.neuroimage.2020.117610](https://doi.org/10.1017/S0033291721000842).[PDF](http://azuberer.github.io/files/Jagger-Rickels2021Impaired.pdf). 
+Jagger-Rickels, A., Stumps, A., Rothlein, D., Park, H., Fortenbaugh, F., Zuberer, A., Fonda, J., Fortier, C., DeGutis, J., Milberg, W. & Esterman, M. (2021). Impaired executive function exacerbates neural markers of PTSD. <i>Psychological Medicine.</i> [https://doi.org/10.1016/j.neuroimage.2020.117610](https://doi.org/10.1017/S0033291721000842).[PDF](http://azuberer.github.io/files/Jagger-Rickels2021Impaired.pdf). 
 
 
 Zuberer, A., Kucyi, A., Yamashita, A., Wu, C. M., Walter, M., Valera, E. M., & Esterman, M. (2021). Integration and segregation across large-scale intrinsic brain networks as a marker of sustained attention and task-unrelated thought. <i>NeuroImage.</i> [https://doi.org/10.1016/j.neuroimage.2020.117610](https://doi.org/10.1016/j.neuroimage.2020.117610).[PDF](http://azuberer.github.io/files/zuberer2020integration.pdf). 
