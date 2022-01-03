@@ -5,7 +5,7 @@ author_profile: true
 ---
 <br>
 
-Hillmann, B., Zuberer, A., Schwarz, L., Erb, M., Scheffler, M., Nieratschker, V., \&  Ethofer, T. (2022). ADHD patients with DIRAS-2 risk allele need more thalamic activation during emotional face-voice recognition.<i>Psychiatry Research.<i> [https://doi.org/10.1016/j.psychres.2021.114355](https://doi.org/10.1016/j.psychres.2021.114355).[PDF](http://azuberer.github.io/files/Hillmann2022ADHD.pdf).
+Hillmann, B., Zuberer, A., Schwarz, L., Erb, M., Scheffler, M., Nieratschker, V., \&  Ethofer, T. (2022). ADHD patients with DIRAS-2 risk allele need more thalamic activation during emotional face-voice recognition. <i>Psychiatry Research.<i> [https://doi.org/10.1016/j.psychres.2021.114355](https://doi.org/10.1016/j.psychres.2021.114355).[PDF](http://azuberer.github.io/files/Hillmann2022ADHD.pdf).
 
 
 Jagger-Rickels, A., Stumps, A., Rothlein, D., Park, H., Fortenbaugh, F., Zuberer, A., Fonda, J., Fortier, C., DeGutis, J., Milberg, W. & Esterman, M. (2021). Impaired executive function exacerbates neural markers of PTSD. <i>Psychological Medicine.</i> [https://doi.org/10.1016/j.neuroimage.2020.117610](https://doi.org/10.1017/S0033291721000842).[PDF](http://azuberer.github.io/files/Jagger-Rickels2021Impaired.pdf). 
