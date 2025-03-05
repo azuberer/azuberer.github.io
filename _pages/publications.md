@@ -18,8 +18,7 @@ Nanni-Zepeda, M., DeGutis, J., Wu, C., Rothlein, D., Fan, Y., Grimm, S., Walter,
 [https://doi.org/10.1002/hbm.26622]
 (https://doi.org/10.1002/hbm.26622).[PDF](http://azuberer.github.io/files/NanniNeural2024.pdf).
 
-Babb, J. A., Zuberer, A., Heinrichs, S., Rumbika, K. K., Alfiler, L., Lakis, G. A., Leite-Morris, K. A., Kaplan, G. B. (2023). Disturbances in fear extinction learning after mild traumatic brain injury in mice are accompanied by alterations in dendritic plasticity in the medial prefrontal cortex and basolateral nucleus of the amygdala. Brain <i>Research Bulletin.<i>
-[https://doi.org/10.1016/j.brainresbull.2023.04.001]
+Babb, J. A., Zuberer, A., Heinrichs, S., Rumbika, K. K., Alfiler, L., Lakis, G. A., Leite-Morris, K. A., Kaplan, G. B. (2023). Disturbances in fear extinction learning after mild traumatic brain injury in mice are accompanied by alterations in dendritic plasticity in the medial prefrontal cortex and basolateral nucleus of the amygdala. Brain <i>Research Bulletin.<i>[https://doi.org/10.1016/j.brainresbull.2023.04.001]
 (https://doi.org/10.1016/j.brainresbull.2023.04.001).[PDF](http://azuberer.github.io/files/BabbDisturbances2023.pdf).
 
 
