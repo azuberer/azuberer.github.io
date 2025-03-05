@@ -5,21 +5,21 @@ author_profile: true
 ---
 <br>
 
-Zuberer, A. (2025). Neural Signature of Reappraisal: Tendency Versus Capacity. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging.<i>
+Zuberer, A. (2025). Neural Signature of Reappraisal: Tendency Versus Capacity. *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging.*
 [https://doi.org/10.1016/j.bpsc.2024.11.016]
 (https://doi.org/10.1016/j.bpsc.2024.11.016).[PDF](http://azuberer.github.io/files/ZubererNeural2025.pdf).
 
 
-Evans, T. C., Carlson, J., Zuberer, A., Fry, R., Agnoli, S., Britton, J. C., DeGutis, J., Esterman, M. (2024). A preliminary characterization of the psychometric properties and generalizability of a novel social approach-avoidance paradigm. <i>Motivation and Emotion<i>.
+Evans, T. C., Carlson, J., Zuberer, A., Fry, R., Agnoli, S., Britton, J. C., DeGutis, J., Esterman, M. (2024). A preliminary characterization of the psychometric properties and generalizability of a novel social approach-avoidance paradigm. *Motivation and Emotion*.
 [https://doi.org/10.1007/s11031-024-10076-z]
 (https://doi.org/10.1007/s11031-024-10076-z).[PDF](http://azuberer.github.io/files/EvansPreliminary2024.pdf).
 
-Nanni-Zepeda, M., DeGutis, J., Wu, C., Rothlein, D., Fan, Y., Grimm, S., Walter, M., Esterman, M., Zuberer, A. (2024). v <i>Human Brain Mapping.<i>
+Nanni-Zepeda, M., DeGutis, J., Wu, C., Rothlein, D., Fan, Y., Grimm, S., Walter, M., Esterman, M., Zuberer, A. (2024). *Human Brain Mapping.*
 [https://doi.org/10.1002/hbm.26622]
 (https://doi.org/10.1002/hbm.26622).[PDF]
 (http://azuberer.github.io/files/NanniNeural2024.pdf).
 
-Babb, J. A., Zuberer, A., Heinrichs, S., Rumbika, K. K., Alfiler, L., Lakis, G. A., Leite-Morris, K. A., Kaplan, G. B. (2023). Disturbances in fear extinction learning after mild traumatic brain injury in mice are accompanied by alterations in dendritic plasticity in the medial prefrontal cortex and basolateral nucleus of the amygdala. Brain <i>Research Bulletin.<i>[https://doi.org/10.1016/j.brainresbull.2023.04.001]
+Babb, J. A., Zuberer, A., Heinrichs, S., Rumbika, K. K., Alfiler, L., Lakis, G. A., Leite-Morris, K. A., Kaplan, G. B. (2023). Disturbances in fear extinction learning after mild traumatic brain injury in mice are accompanied by alterations in dendritic plasticity in the medial prefrontal cortex and basolateral nucleus of the amygdala. *Brain Research Bulletin.*[https://doi.org/10.1016/j.brainresbull.2023.04.001]
 (https://doi.org/10.1016/j.brainresbull.2023.04.001).[PDF](http://azuberer.github.io/files/BabbDisturbances2023.pdf).
 
 
