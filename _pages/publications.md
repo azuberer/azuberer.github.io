@@ -12,18 +12,18 @@ Zuberer, A. (2025). Neural Signature of Reappraisal: Tendency Versus Capacity. <
 
 Evans, T. C., Carlson, J., Zuberer, A., Fry, R., Agnoli, S., Britton, J. C., DeGutis, J., Esterman, M. (2024). A preliminary characterization of the psychometric properties and generalizability of a novel social approach-avoidance paradigm. <i>Motivation and Emotion<i>.
 [https://doi.org/10.1007/s11031-024-10076-z]
-((https://doi.org/10.1007/s11031-024-10076-z)).[PDF](http://azuberer.github.io/files/EvansPreliminary2024.pdf).
+(https://doi.org/10.1007/s11031-024-10076-z).[PDF](http://azuberer.github.io/files/EvansPreliminary2024.pdf).
 
 Nanni-Zepeda, M., DeGutis, J., Wu, C., Rothlein, D., Fan, Y., Grimm, S., Walter, M., Esterman, M., Zuberer, A. (2024). v <i>Human Brain Mapping.<i>
 [https://doi.org/10.1002/hbm.26622]
-( https://doi.org/10.1002/hbm.26622).[PDF](http://azuberer.github.io/files/NanniNeural2024.pdf).
+(https://doi.org/10.1002/hbm.26622).[PDF](http://azuberer.github.io/files/NanniNeural2024.pdf).
 
 Babb, J. A., Zuberer, A., Heinrichs, S., Rumbika, K. K., Alfiler, L., Lakis, G. A., Leite-Morris, K. A., Kaplan, G. B. (2023). Disturbances in fear extinction learning after mild traumatic brain injury in mice are accompanied by alterations in dendritic plasticity in the medial prefrontal cortex and basolateral nucleus of the amygdala. Brain <i>Research Bulletin.<i>
 [https://doi.org/10.1016/j.brainresbull.2023.04.001]
 (https://doi.org/10.1016/j.brainresbull.2023.04.001).[PDF](http://azuberer.github.io/files/BabbDisturbances2023.pdf).
 
 
-Agnoli, S., Zuberer, A., Nanni-Zepeda, M., McGlinchey, R. E., Milberg, W. P., Esterman, M., DeGutis, J. (2023). Depressive Symptoms are Associated with More Negative Global Metacognitive Biases in Combat Veterans, and Biases Covary with Symptom Changes over Time. <i>Depression and Anxiety.<i> [https://doi.org/10.1037/neu0000967](https://doi.org/10.1155/2023/2925551]
+Agnoli, S., Zuberer, A., Nanni-Zepeda, M., McGlinchey, R. E., Milberg, W. P., Esterman, M., DeGutis, J. (2023). Depressive Symptoms are Associated with More Negative Global Metacognitive Biases in Combat Veterans, and Biases Covary with Symptom Changes over Time. <i>Depression and Anxiety.<i> [https://doi.org/10.1037/neu0000967]
 (https://doi.org/10.1155/2023/2925551)).[PDF](http://azuberer.github.io/files/AgnoliDepressive2023.pdf).
 
 
