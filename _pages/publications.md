@@ -23,9 +23,8 @@ Babb, J. A., Zuberer, A., Heinrichs, S., Rumbika, K. K., Alfiler, L., Lakis, G. 
 (https://doi.org/10.1016/j.brainresbull.2023.04.001).[PDF](http://azuberer.github.io/files/BabbDisturbances2023.pdf).
 
 
-Agnoli, S., Zuberer, A., Nanni-Zepeda, M., McGlinchey, R. E., Milberg, W. P., Esterman, M., DeGutis, J. (2023). Depressive Symptoms are Associated with More Negative Global Metacognitive Biases in Combat Veterans, and Biases Covary with Symptom Changes over Time. <i>Depression and Anxiety.<i> 
-[https://doi.org/10.1155/2023/2925551]
-(https://doi.org/10.1155/2023/2925551).[PDF](http://azuberer.github.io/files/AgnoliDepressive2023.pdf).
+Agnoli, S., Zuberer, A., Nanni-Zepeda, M., McGlinchey, R. E., Milberg, W. P., Esterman, M., DeGutis, J. (2023). Depressive Symptoms are Associated with More Negative Global Metacognitive Biases in Combat Veterans, and Biases Covary with Symptom Changes over Time. *Depression and Anxiety.* [https://doi.org/10.1155/2023/2925551](https://doi.org/10.1155/2023/2925551). [PDF](http://azuberer.github.io/files/AgnoliDepressive2023.pdf).
+
 
 
 Hillmann, B., Zuberer, A., Schwarz, L., Erb, M., Scheffler, M., Nieratschker, V., Ethofer, T. (2022). ADHD patients with DIRAS-2 risk allele need more thalamic activation during emotional face-voice recognition. <i>Psychiatry Research.<i> [https://doi.org/10.1016/j.psychres.2021.114355](https://doi.org/10.1016/j.psychres.2021.114355).[PDF](http://azuberer.github.io/files/Hillmann2022ADHD.pdf).
