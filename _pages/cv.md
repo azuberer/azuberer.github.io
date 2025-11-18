@@ -10,4 +10,5 @@ redirect_from:
 {% include base_path %}
 {% include base_path %}
 
-[Curriculum Vitae [PDF]](http://azuberer.github.io/files/zubererCV.pdf)
+[Curriculum Vitae [PDF]]()
+
