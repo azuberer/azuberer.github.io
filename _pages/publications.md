@@ -5,7 +5,7 @@ author_profile: true
 ---
 <br>
 
-Park, J., Ross, G., Siekierski, P., Radtke-Schuller, S., \textbf{Zuberer, A.}, Frohlich, F. Optogenetic Stimulation Reveals Frequency Tuned Communication between the Claustrum and Premotor Cortex in Ferrets.
+Park, J., Ross, G., Siekierski, P., Radtke-Schuller, S., Zuberer, A., Frohlich, F. Optogenetic Stimulation Reveals Frequency Tuned Communication between the Claustrum and Premotor Cortex in Ferrets.
 
 Zuberer, A. (2025). Neural Signature of Reappraisal: Tendency Versus Capacity. *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging.* [https://doi.org/10.1016/j.bpsc.2024.11.016](https://doi.org/10.1016/j.bpsc.2024.11.016). [PDF](http://azuberer.github.io/files/ZubererNeural2025.pdf).
 
@@ -47,4 +47,5 @@ Zuberer, A., Brandeis, D. & Drechsler, R. (2015). Are treatment effects of neuro
 
 
 [\* denotes equal contribution]
+
 
