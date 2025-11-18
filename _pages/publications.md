@@ -5,6 +5,8 @@ author_profile: true
 ---
 <br>
 
+Park, J., Ross, G., Siekierski, P., Radtke-Schuller, S., \textbf{Zuberer, A.}, Frohlich, F. Optogenetic Stimulation Reveals Frequency Tuned Communication between the Claustrum and Premotor Cortex in Ferrets.
+
 Zuberer, A. (2025). Neural Signature of Reappraisal: Tendency Versus Capacity. *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging.* [https://doi.org/10.1016/j.bpsc.2024.11.016](https://doi.org/10.1016/j.bpsc.2024.11.016). [PDF](http://azuberer.github.io/files/ZubererNeural2025.pdf).
 
 Evans, T. C., Carlson, J., Zuberer, A., Fry, R., Agnoli, S., Britton, J. C., DeGutis, J., Esterman, M. (2024). A preliminary characterization of the psychometric properties and generalizability of a novel social approach-avoidance paradigm. *Motivation and Emotion.* [https://doi.org/10.1007/s11031-024-10076-z](https://doi.org/10.1007/s11031-024-10076-z). [PDF](http://azuberer.github.io/files/EvansPreliminary2024.pdf).
@@ -45,3 +47,4 @@ Zuberer, A., Brandeis, D. & Drechsler, R. (2015). Are treatment effects of neuro
 
 
 [\* denotes equal contribution]
+
